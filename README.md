@@ -7,7 +7,7 @@
 <br/><br/>
 
 <!-- DYNAMIC TYPING SUBTITLE -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+<a href="www.linkedin.com/in/ebube-mobodo-0532b1411">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Building+Robust+Scalable+Backend+Systems;Integrating+Artificial+Intelligence+with+Java;Aspiring+Backend+Engineer+@+Covenant+University" alt="Typing SVG" />
 </a>
 
