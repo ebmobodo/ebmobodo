@@ -7,7 +7,7 @@
 <br/><br/>
 
 <!-- DYNAMIC TYPING SUBTITLE -->
-<a href="www.linkedin.com/in/ebube-mobodo-0532b1411">
+<a href="www.linkedin.com/in/ebube-mobodo">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Building+Robust+Scalable+Backend+Systems;Integrating+Artificial+Intelligence+with+Java;Aspiring+Backend+Engineer+@+Covenant+University" alt="Typing SVG" />
 </a>
 
@@ -22,7 +22,7 @@
 <p align="center">
   <a href="www.linkedin.com/in/ebube-mobodo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ebmobodo07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/ebmobodo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <br/>
